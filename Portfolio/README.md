@@ -70,7 +70,8 @@ portfolio/
    ```
 
 3. **Open your browser**:
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to
+   
 
 ## 📦 Build for Production
 
